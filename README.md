@@ -51,7 +51,7 @@ Service Flow AI is my flagship Full Stack project, developed using Django and Po
 </details>
 <p></p>
 
-> **🔗 Repository:** *(Repository currently being polished.)*
+> [🔗 GitHub Repository](https://github.com/0N1X9/service-flow)
 
 > [🔗 Live Website](https://serviceflow-4364c1298b33.herokuapp.com/)
 
