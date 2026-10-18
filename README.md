@@ -223,9 +223,7 @@ For me, software development is not only about writing code — it is about unde
 
 I'm always happy to connect with other developers, collaborate on interesting projects, and learn from the community.
 
-* 📧Email: **0N1X9@proton.me**
-* 💼Portfolio: **https://0N1X9.github.io/portfolio**
-* 🎯LinkedIn: *(Coming soon)*
+* 📧Email: **constantin@astermail.org**
 
 ---
 
